@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=t\ i\ im\ w\ h
+comment0.target=NewRuleCard(java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment1.params=t\ im\ w\ h
+comment1.target=NewRuleCard(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=newRule
+comment2.target=int\ compareTo(NewRuleCard)
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=int\ getInt()
+comment5.params=
+comment5.target=java.lang.String\ toSrting()
+comment6.params=
+comment6.target=boolean\ isHandLimit()
+comment7.params=
+comment7.target=boolean\ isKeeperLimit()
+numComments=8

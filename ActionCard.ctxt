@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ im\ w\ h
+comment0.target=ActionCard(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.params=n\ im\ i\ w\ h
+comment1.target=ActionCard(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getAbility()
+numComments=4

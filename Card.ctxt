@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Card()
+comment1.params=n\ w1\ w\ h
+comment1.target=Card(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getFile()
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ getImage()
+comment4.params=
+comment4.target=int\ getWidth()
+comment5.params=
+comment5.target=int\ getHeight()
+comment6.params=
+comment6.target=java.lang.String\ getName()
+numComments=7
